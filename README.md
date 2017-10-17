@@ -1,3 +1,1 @@
-# Examples
-
-This repo contains various sample projects that have been created while writing my blog at http://andrewlock.net.
+Simple example of swapping out a login partial for a viewComponent
